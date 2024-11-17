@@ -1,0 +1,2214 @@
+[
+  {
+    "id": "bb0aeffa-9a32-42ed-b782-cb0999a7827d",
+    "opportunity": {
+      "name": "Viral Content Creation",
+      "type": "niche",
+      "description": "Creating viral content on platforms like TikTok and YouTube involves producing engaging, relatable, or entertaining videos that capture the audience's attention and encourage sharing. The process often requires experimentation with different formats and storytelling techniques to find what resonates with viewers. Once a video goes viral, it opens up opportunities for monetization through brand partnerships, ad revenue, and merchandise sales.",
+      "tags": [
+        "content creation",
+        "social media",
+        "viral marketing",
+        "niche"
+      ],
+      "perfectFounderTraits": "The ideal founder is passionate about storytelling and digital media, with a knack for understanding and predicting trends. They should love creating content that resonates with a wide audience and have the ability to adapt quickly to platform changes. The world needs engaging content that entertains and informs, and this founder should be good at crafting stories that capture attention. They can be paid through ad revenue, sponsorships, and merchandise sales.",
+      "standoutFactors": [
+        {
+          "factor": "Potential for rapid audience growth and monetization",
+          "evidence": "I leave my phone in the room for a couple hours, come back and I couldn't even open my phone and it had over 5 million views in a matter of a few hours."
+        }
+      ],
+      "gettingStarted": {
+        "initialInvestment": "Minimal financial investment, primarily time and creativity",
+        "keySkillsNeeded": [
+          "Storytelling",
+          "Video editing",
+          "Trend analysis"
+        ],
+        "resourcesNeeded": [
+          "Smartphone or camera",
+          "Video editing software"
+        ],
+        "steps": [
+          "Experiment with different video formats and storytelling techniques to find what resonates with your audience.",
+          "Consistently post content to build an audience, aiming for multiple posts per day to increase visibility."
+        ],
+        "evidence": [
+          "I went into this feverish like constantly telling stories on Tik Tok uh 3 a day for 30 days and then was up to like 7 million subscribers on Tik Tok."
+        ]
+      },
+      "resources": [
+        {
+          "name": "TikTok Creator Portal",
+          "type": "website",
+          "description": "Provides tips and best practices for creating content on TikTok.",
+          "evidence": "No direct quote, but implied need for platform-specific resources.",
+          "links": [
+            "https://www.tiktok.com/creators/creator-portal/en-us/"
+          ]
+        }
+      ],
+      "successStory": {
+        "name": "Anonymous Content Creator",
+        "summary": "Started with experimental videos, achieved viral success, and grew to millions of subscribers.",
+        "evidence": "I was obsessed with it so despite the many failures over the course of probably you know 6 months or so maybe a year of just like awful cringe videos that went nowhere.",
+        "links": []
+      }
+    },
+    "source": {
+      "channelName": "My First Million",
+      "channelUrl": "https://www.youtube.com/channel/UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "url": "https://www.youtube.com/watch?v=YxYDIlLii8c",
+      "title": "From Navy Seal To Viral Content Creator - MrBallen’s Insane Story (TRAILER)"
+    }
+  },
+  {
+    "id": "b58716bf-315e-4800-9c2e-8e1a84937fe0",
+    "opportunity": {
+      "name": "Unique Hospitality Experiences",
+      "type": "niche",
+      "description": "Creating unique, immersive hospitality experiences by transforming unconventional properties like old train cars, shipping containers, or houseboats into high-demand short-term rentals. This involves leveraging storytelling, design, and hospitality to create memorable stays that stand out in the saturated Airbnb market.",
+      "tags": [
+        "hospitality",
+        "real estate",
+        "design",
+        "niche"
+      ],
+      "perfectFounderTraits": "The ideal founder is passionate about hospitality and design, with a knack for storytelling and a vision for creating unique experiences. They should love crafting spaces that evoke emotion and connection, be good at project management and design, and have a strong understanding of social media marketing to attract guests. The world needs more unique travel experiences, and this founder can be paid well by capitalizing on the demand for distinctive stays.",
+      "standoutFactors": [
+        {
+          "factor": "High profitability and demand for unique stays",
+          "evidence": "We had 95% occupancy overall with these seven cabins, which is just crazy starting from zero."
+        },
+        {
+          "factor": "Potential for viral marketing and brand building",
+          "evidence": "We built 150,000 followers on Instagram plus like 30 or 40,000 people on the email list."
+        }
+      ],
+      "gettingStarted": {
+        "initialInvestment": "Varies significantly based on the project, but can start with as little as $100,000 for land and initial development.",
+        "keySkillsNeeded": [
+          "Design and architecture",
+          "Project management",
+          "Social media marketing"
+        ],
+        "resourcesNeeded": [
+          "Unique property or land",
+          "Design and construction team",
+          "Social media presence"
+        ],
+        "steps": [
+          "Identify a unique property or piece of land with potential for transformation into a distinctive hospitality experience.",
+          "Develop a strong brand and marketing strategy, leveraging social media to build an audience and attract direct bookings."
+        ],
+        "evidence": [
+          "I spent on the phone with banks like hitting up every local bank I possibly could.",
+          "I whipped up a website overnight and $40,000 of direct bookings and 5,000 followers on Instagram from scratch."
+        ]
+      },
+      "resources": [
+        {
+          "name": "Unreasonable Hospitality",
+          "type": "book",
+          "description": "A guide on creating exceptional hospitality experiences that delight guests.",
+          "evidence": "Read unreasonable Hospitality if you haven't already.",
+          "links": []
+        }
+      ],
+      "successStory": {
+        "name": "Isaac French",
+        "summary": "Transformed a piece of land into a successful micro-resort with 95% occupancy and sold it for $7 million.",
+        "evidence": "We sold for seven million so last October two and a half years in.",
+        "links": [
+          {
+            "url": "https://www.instagram.com/liveoaklake",
+            "description": "Instagram page showcasing the unique hospitality experience created by Isaac."
+          }
+        ]
+      }
+    },
+    "source": {
+      "channelName": "My First Million",
+      "channelUrl": "https://www.youtube.com/channel/UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "url": "https://www.youtube.com/watch?v=iZgykV4JxFQ",
+      "title": "How I Went From Broke to $7 Million With An Airbnb Business"
+    }
+  },
+  {
+    "id": "312fa2da-0814-40d3-a57c-d6a0b93ed79c",
+    "opportunity": {
+      "name": "AI-Powered Coding Environment",
+      "type": "startup",
+      "description": "A cloud-based integrated development environment (IDE) that allows developers to code in any language directly in the browser, with AI assistance to help write and debug code. This platform aims to democratize coding by making it accessible to anyone with an internet connection, removing the need for complex local setups.",
+      "tags": [
+        "coding",
+        "AI",
+        "education",
+        "startup"
+      ],
+      "perfectFounderTraits": "The ideal founder is passionate about coding and education, with a strong technical background in software development. They should love creating tools that empower others to learn and build, and have a vision for making programming accessible to a global audience. The world needs this to lower the barrier to entry for new developers, and the founder should be good at building intuitive software and fostering a community. They can be paid through subscription models and enterprise partnerships.",
+      "standoutFactors": [
+        {
+          "factor": "Rapid growth in developer user base",
+          "evidence": "The company has grown from 5 million to 20 million developers in a few years."
+        },
+        {
+          "factor": "Strong AI integration for coding assistance",
+          "evidence": "The platform includes AI co-pilot features that help users write and debug code."
+        }
+      ],
+      "gettingStarted": {
+        "initialInvestment": "High initial investment for platform development and AI integration",
+        "keySkillsNeeded": [
+          "Software development",
+          "AI/ML expertise",
+          "Community building"
+        ],
+        "resourcesNeeded": [
+          "Cloud infrastructure",
+          "AI models",
+          "Developer community"
+        ],
+        "steps": [
+          "Develop a robust cloud-based IDE that supports multiple programming languages and integrates AI for coding assistance.",
+          "Build a community of developers and educators to promote the platform and gather feedback for continuous improvement."
+        ],
+        "evidence": [
+          "The platform started as a side project and grew through community support and technical innovation.",
+          "The founder's vision included AI assistance from the beginning, which is now a key feature."
+        ]
+      },
+      "resources": [
+        {
+          "name": "Hacker News",
+          "type": "community",
+          "description": "A community where developers discuss and share insights about new technologies and startups.",
+          "evidence": "The platform gained early traction and support from the Hacker News community.",
+          "links": null
+        }
+      ],
+      "successStory": null
+    },
+    "source": {
+      "channelName": "My First Million",
+      "channelUrl": "https://www.youtube.com/channel/UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "url": "https://www.youtube.com/watch?v=OPnPJuPGAEI",
+      "title": "10 Startups w/ Stock Grants That’ll Make You A Millionaire | Sara’s List 2024"
+    }
+  },
+  {
+    "id": "ab1ff0de-56e8-4517-9156-9c2d1d94d566",
+    "opportunity": {
+      "name": "AI-Powered Research Assistant",
+      "type": "startup",
+      "description": "A platform that uses AI to provide accurate and reliable answers to research queries, designed to be a more precise alternative to general AI chatbots. It is particularly useful for academic and professional research where accuracy is critical.",
+      "tags": [
+        "AI",
+        "research",
+        "education",
+        "startup"
+      ],
+      "perfectFounderTraits": "The ideal founder is someone who values precision and accuracy, with a background in AI and data science. They should love solving complex problems and have a passion for improving access to reliable information. The world needs this to enhance research capabilities and reduce misinformation. The founder should be good at developing AI models and understanding user needs in research contexts. They can be paid through subscription services and partnerships with educational institutions.",
+      "standoutFactors": [
+        {
+          "factor": "High demand for accurate AI-driven research tools",
+          "evidence": "The platform is preferred for research tasks where accuracy is paramount."
+        }
+      ],
+      "gettingStarted": {
+        "initialInvestment": "Moderate to high investment for AI development and data acquisition",
+        "keySkillsNeeded": [
+          "AI/ML development",
+          "Data analysis",
+          "User experience design"
+        ],
+        "resourcesNeeded": [
+          "Access to large datasets",
+          "AI development tools",
+          "Partnerships with research institutions"
+        ],
+        "steps": [
+          "Develop AI models that prioritize accuracy and reliability in information retrieval.",
+          "Establish partnerships with academic and research institutions to integrate the platform into their workflows."
+        ],
+        "evidence": [
+          "The platform is used by professionals and academics who require high accuracy in their research.",
+          "The founder's background in AI and data science is crucial for developing reliable models."
+        ]
+      },
+      "resources": [
+        {
+          "name": "AI Research Journals",
+          "type": "website",
+          "description": "Publications that provide insights into the latest developments in AI and machine learning.",
+          "evidence": "The founder uses these resources to stay updated on AI advancements.",
+          "links": null
+        }
+      ],
+      "successStory": null
+    },
+    "source": {
+      "channelName": "My First Million",
+      "channelUrl": "https://www.youtube.com/channel/UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "url": "https://www.youtube.com/watch?v=OPnPJuPGAEI",
+      "title": "10 Startups w/ Stock Grants That’ll Make You A Millionaire | Sara’s List 2024"
+    }
+  },
+  {
+    "id": "7ae74646-131e-450a-a016-d2cca8904db6",
+    "opportunity": {
+      "name": "Jump Seat",
+      "type": "startup",
+      "description": "Jump Seat is a platform designed to allow airline passengers to buy and sell their seats on flights, similar to how tickets are resold on platforms like Ticketmaster. This service would enable passengers whose flights have been canceled or delayed to offer money for a seat on an earlier flight, or for those with flexible schedules to sell their seats to those in need. The platform could also facilitate seat upgrades, allowing passengers to bid for first-class seats from those willing to downgrade for a price.",
+      "tags": [
+        "travel",
+        "airline",
+        "ticketing",
+        "startup"
+      ],
+      "perfectFounderTraits": "The ideal founder for Jump Seat is someone with a strong background in technology and a deep understanding of the airline industry. They should be passionate about solving travel-related problems and have a knack for creating user-friendly digital platforms. This person should love travel and innovation, understand the complexities of airline operations, and be skilled in negotiation and partnership building. They can be paid through transaction fees and partnerships with airlines, and the world needs this solution to improve customer satisfaction and flexibility in air travel.",
+      "standoutFactors": [
+        {
+          "factor": "Solves a common problem for travelers with flight cancellations and delays",
+          "evidence": "The idea for jump seat is very much like Ticket Master or something else where there's a platform where let's just say Sam again your flight got canceled and you're like damn it I have to get home you go on jump seat and you offer you $1,000 for any seat on any flight going back to where do you live."
+        }
+      ],
+      "gettingStarted": {
+        "initialInvestment": "Estimated $100,000-200,000 for platform development and initial marketing",
+        "keySkillsNeeded": [
+          "Software development",
+          "Airline industry knowledge",
+          "Negotiation"
+        ],
+        "resourcesNeeded": [
+          "Access to airline seat inventory data",
+          "Legal expertise for compliance"
+        ],
+        "steps": [
+          "Develop a prototype of the platform that allows users to list and bid on seats, ensuring a user-friendly interface and secure transaction process.",
+          "Negotiate partnerships with airlines to integrate the platform with their booking systems and establish a revenue-sharing model."
+        ],
+        "evidence": [
+          "The idea for jump seat is very much like Ticket Master or something else where there's a platform where let's just say Sam again your flight got canceled and you're like damn it I have to get home you go on jump seat and you offer you $1,000 for any seat on any flight going back to where do you live.",
+          "They already allow Aggregates like Expedia and you know they're already in their backend system and this solves a problem for them and they can make more money by just taking five dollars off of every time someone switch sheets why would you know why would they care."
+        ]
+      },
+      "resources": [
+        {
+          "name": "Chris Voss - Never Split the Difference",
+          "type": "book",
+          "description": "A book on negotiation strategies that could be useful for negotiating partnerships with airlines.",
+          "evidence": "Chris Boss never split the difference I love that book I read that book during covid because I really had to get good at negotiation.",
+          "links": null
+        }
+      ],
+      "successStory": null
+    },
+    "source": {
+      "channelName": "My First Million",
+      "channelUrl": "https://www.youtube.com/channel/UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "url": "https://www.youtube.com/watch?v=8YwI-UcNuow",
+      "title": "From Nonprofit Founder To Building A $300M Pilates Business"
+    }
+  },
+  {
+    "id": "e99181cc-3d89-4178-945b-78dc0a1525e7",
+    "opportunity": {
+      "name": "Luxury Sock Manufacturing",
+      "type": "startup",
+      "description": "Creating a line of high-quality, custom-designed socks that cater to specific preferences in terms of comfort, style, and fit. This involves understanding the nuances of sock design, such as material choice, elasticity, and style preferences (e.g., crew socks vs. ankle socks). The business would focus on providing a premium product that stands out in the market for its comfort and durability, potentially offering customization options for individual customers or bulk orders for businesses.",
+      "tags": [
+        "fashion",
+        "luxury",
+        "startup",
+        "textiles"
+      ],
+      "perfectFounderTraits": "The ideal founder is someone who has a keen eye for detail and a passion for fashion and comfort. They should love creating products that enhance daily life, and the world needs more sustainable and high-quality clothing options. The founder should be good at understanding textile manufacturing and design, and they can be paid for creating a product that people are willing to pay a premium for due to its quality and customization options.",
+      "standoutFactors": [
+        {
+          "factor": "Growing demand for high-quality, customizable clothing items",
+          "evidence": "I threw all my socks away and asked, 'What is the highest quality sock?' and now I have custom socks."
+        }
+      ],
+      "gettingStarted": {
+        "initialInvestment": "$10,000-20,000 for initial design and manufacturing setup",
+        "keySkillsNeeded": [
+          "Textile design",
+          "Supply chain management",
+          "Marketing"
+        ],
+        "resourcesNeeded": [
+          "Access to textile manufacturers",
+          "Design software"
+        ],
+        "steps": [
+          "Research and identify a niche market within the sock industry that values high-quality and customizable options.",
+          "Partner with a textile manufacturer to create prototypes and test different materials and designs for comfort and durability."
+        ],
+        "evidence": [
+          "I went to a manufacturer and was like, 'Hey, I want a sock like this.'",
+          "I have like 100-200 pairs of custom manufactured socks."
+        ]
+      },
+      "resources": [
+        {
+          "name": "Alibaba",
+          "type": "website",
+          "description": "Platform to find manufacturers for custom product creation.",
+          "evidence": "I found a factory off Alibaba to make my custom socks.",
+          "links": [
+            "https://www.alibaba.com"
+          ]
+        }
+      ],
+      "successStory": null
+    },
+    "source": {
+      "channelName": "My First Million",
+      "channelUrl": "https://www.youtube.com/channel/UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "url": "https://www.youtube.com/watch?v=u8_InIlZFWI",
+      "title": "5 Random But Useful Things I Learned At A Private Equity Conference"
+    }
+  },
+  {
+    "id": "2deee2fc-50aa-4681-83e3-d75045f4279e",
+    "opportunity": {
+      "name": "Conference Connection Facilitation",
+      "type": "niche",
+      "description": "A service that helps individuals attending conferences to connect with others in meaningful ways. This involves understanding the dynamics of networking and providing tools or services that facilitate introductions and conversations. The service could include personalized matchmaking based on interests and goals, icebreaker activities, or even a digital platform that helps attendees keep track of their connections and follow up after the event.",
+      "tags": [
+        "networking",
+        "events",
+        "niche"
+      ],
+      "perfectFounderTraits": "The ideal founder loves bringing people together and thrives in social environments. They should be good at understanding social dynamics and have a knack for creating engaging experiences. The world needs better networking solutions that go beyond superficial interactions, and the founder can be paid for providing a service that enhances the value of attending conferences.",
+      "standoutFactors": [
+        {
+          "factor": "High demand for effective networking solutions at conferences",
+          "evidence": "He would just keep connecting people and give you this really hyperbole intro."
+        }
+      ],
+      "gettingStarted": {
+        "initialInvestment": "Minimal, primarily for developing a digital platform or app",
+        "keySkillsNeeded": [
+          "Event planning",
+          "Social media marketing",
+          "App development"
+        ],
+        "resourcesNeeded": [
+          "Access to conference organizers",
+          "Networking tools"
+        ],
+        "steps": [
+          "Develop a platform or service that facilitates meaningful connections at conferences.",
+          "Partner with conference organizers to offer your service as part of their event package."
+        ],
+        "evidence": [
+          "He realized that the way to build value at a conference is not to puff your chest out.",
+          "He would just keep connecting people."
+        ]
+      },
+      "resources": [
+        {
+          "name": "Eventbrite",
+          "type": "website",
+          "description": "Platform for event management and ticketing, useful for connecting with conference organizers.",
+          "evidence": "Partner with conference organizers to offer your service.",
+          "links": [
+            "https://www.eventbrite.com"
+          ]
+        }
+      ],
+      "successStory": null
+    },
+    "source": {
+      "channelName": "My First Million",
+      "channelUrl": "https://www.youtube.com/channel/UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "url": "https://www.youtube.com/watch?v=u8_InIlZFWI",
+      "title": "5 Random But Useful Things I Learned At A Private Equity Conference"
+    }
+  },
+  {
+    "id": "28423f5a-6015-48c9-b199-5115d01da9ae",
+    "opportunity": {
+      "name": "Rental People Who Do Nothing",
+      "type": "niche",
+      "description": "A service where individuals can hire someone to accompany them in a non-intrusive, non-physical, and non-sexual manner. The service caters to people who feel lonely or need a silent companion for various activities, such as running errands or having tea. The concept originated in Japan, where a man started offering himself as a 'do nothing' companion, earning $80,000 a year by simply being present with clients.",
+      "tags": [
+        "companionship",
+        "loneliness",
+        "niche",
+        "Japan"
+      ],
+      "perfectFounderTraits": "The ideal founder is empathetic and understands the nuances of human loneliness and the need for companionship. They should love providing comfort and presence to others, recognizing the societal need for non-intrusive companionship. They should be good at maintaining a calm and non-judgmental demeanor, and they can be paid for offering their time and presence. This opportunity is perfect for introverts who enjoy being around people without the pressure of engaging in deep conversations.",
+      "standoutFactors": [
+        {
+          "factor": "Addresses the loneliness epidemic, particularly in Japan",
+          "evidence": "In Japan, single person households are now 38% of the population, and they appointed a minister of loneliness because this has become such a big problem."
+        }
+      ],
+      "gettingStarted": {
+        "initialInvestment": "Minimal, primarily for marketing and transportation costs",
+        "keySkillsNeeded": [
+          "Empathy",
+          "Listening",
+          "Non-verbal communication"
+        ],
+        "resourcesNeeded": [
+          "Social media for marketing",
+          "Transportation for meeting clients"
+        ],
+        "steps": [
+          "Create a social media presence to market the service, highlighting the benefits of having a silent companion.",
+          "Network with local communities and organizations that deal with loneliness to find potential clients."
+        ],
+        "evidence": [
+          "He posted a tweet saying I'm starting a new service called rental people who do nothing.",
+          "He used to charge $68 for a session and now just asks to cover food and travel."
+        ]
+      },
+      "resources": [
+        {
+          "name": "Goodreads",
+          "type": "website",
+          "description": "Platform where the book 'Rental People Who Do Nothing' is discussed, providing insights into the service and its impact.",
+          "evidence": "I'm reading the comments on his Goodreads account for his book.",
+          "links": []
+        }
+      ],
+      "successStory": {
+        "name": "Shoji Morimoto",
+        "summary": "Shoji Morimoto, known as the 'do nothing man', started a service in Japan where he rents himself out as a silent companion, earning $80,000 a year.",
+        "evidence": "This guy made $80,000 in a year renting himself out and he then wrote a book A Memoir called rental people who do the man who didn't did nothing.",
+        "links": []
+      }
+    },
+    "source": {
+      "channelName": "My First Million",
+      "channelUrl": "https://www.youtube.com/channel/UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "url": "https://www.youtube.com/watch?v=LTg4yqEwzV0",
+      "title": "The guy who gets paid $80K/yr to do nothing"
+    }
+  },
+  {
+    "id": "8615f232-58d3-4fdd-827d-7886d82b4ff6",
+    "opportunity": {
+      "name": "Porch Pumpkin Decorating Service",
+      "type": "side-hustle",
+      "description": "A seasonal business where you offer to decorate people's porches with pumpkins and other fall-themed items. This service is particularly popular during Halloween and Thanksgiving, providing a convenient solution for those who want festive decorations without the hassle of doing it themselves.",
+      "tags": [
+        "seasonal",
+        "decorating",
+        "side-hustle",
+        "festive"
+      ],
+      "perfectFounderTraits": "The ideal founder loves seasonal festivities and has a knack for design and aesthetics. They should enjoy creating visually appealing displays and have a good sense of customer service. The world needs this service as people often lack the time or creativity to decorate their homes seasonally. The founder should be good at organizing and executing creative projects and can be paid for their design and labor skills.",
+      "standoutFactors": [
+        {
+          "factor": "High demand during fall with potential for significant seasonal income",
+          "evidence": "She's done 900 jobs that range from $300 to $1500, and the estimate was that she might have done a million dollars in revenue in a year."
+        }
+      ],
+      "gettingStarted": {
+        "initialInvestment": "Low, primarily for purchasing initial inventory of pumpkins and decorations",
+        "keySkillsNeeded": [
+          "Design",
+          "Customer service",
+          "Sales"
+        ],
+        "resourcesNeeded": [
+          "Local suppliers for pumpkins",
+          "Transportation for delivery"
+        ],
+        "steps": [
+          "Create a portfolio of potential porch designs and offer them to neighbors or local community members.",
+          "Market the service through social media and local community boards to attract initial clients."
+        ],
+        "evidence": [
+          "I would go door to door and I would say I'm going to knock on 100 doors in my neighborhood.",
+          "She posted on Instagram and that kind of drives the flywheel and then people like us talk about this."
+        ]
+      },
+      "resources": [
+        {
+          "name": "Instagram",
+          "type": "website",
+          "description": "Platform for showcasing your porch designs and attracting new clients through visual marketing.",
+          "evidence": "She posted on Instagram and that kind of drives the flywheel.",
+          "links": []
+        }
+      ],
+      "successStory": {
+        "name": "Dallas Porch Pumpkins",
+        "summary": "A woman in Dallas created a successful seasonal business decorating porches with pumpkins, reportedly generating significant revenue during the fall season.",
+        "evidence": "The business idea here is every fall for Halloween and Thanksgiving people like to decorate their front porch with a bunch of pumpkins.",
+        "links": []
+      }
+    },
+    "source": {
+      "channelName": "My First Million",
+      "channelUrl": "https://www.youtube.com/channel/UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "url": "https://www.youtube.com/watch?v=LTg4yqEwzV0",
+      "title": "The guy who gets paid $80K/yr to do nothing"
+    }
+  },
+  {
+    "id": "4b11c4d3-db4e-41fd-8313-adb2a6eea422",
+    "opportunity": {
+      "name": "Menopause Health Solutions",
+      "type": "startup",
+      "description": "Developing products and services to address the symptoms and health challenges associated with menopause. This could include supplements, wearable technology, or digital health platforms that provide personalized health insights and support for women experiencing menopause.",
+      "tags": [
+        "health",
+        "women's health",
+        "menopause",
+        "startup"
+      ],
+      "perfectFounderTraits": "The ideal founder is passionate about women's health and wellness, particularly in the context of aging. They should have a strong understanding of hormonal health and be empathetic to the challenges faced by women during menopause. They should be skilled in product development, health technology, or digital health platforms. The world needs more solutions in this space due to the large and growing population of women experiencing menopause, and the founder can be paid through product sales, subscriptions, or partnerships with healthcare providers.",
+      "standoutFactors": [
+        {
+          "factor": "6,000 women in the US hit menopause every single day, creating a large and underserved market.",
+          "evidence": "6,000 women in the US hit menopause every single day."
+        }
+      ],
+      "gettingStarted": {
+        "initialInvestment": "$50,000-100,000 for product development and market research",
+        "keySkillsNeeded": [
+          "Product development",
+          "Health technology",
+          "Market research"
+        ],
+        "resourcesNeeded": [
+          "Access to health data",
+          "Partnerships with healthcare providers"
+        ],
+        "steps": [
+          "Conduct market research to understand the specific needs and challenges faced by women during menopause.",
+          "Develop a prototype of a product or service that addresses these needs, such as a supplement or digital health platform."
+        ],
+        "evidence": [
+          "There are some companies that have sprung up already one of them is called Bonafide or bonafed another called genev.",
+          "It's a completely overlooked space because once people hit this age they're not really trying to start a company."
+        ]
+      },
+      "resources": [
+        {
+          "name": "Longevity Imperative",
+          "type": "book",
+          "description": "Provides insights into aging and longevity, including menopause-related health challenges.",
+          "evidence": "I got this from a book called Longevity imperative that I read recently.",
+          "links": []
+        }
+      ],
+      "successStory": null
+    },
+    "source": {
+      "channelName": "My First Million",
+      "channelUrl": "https://www.youtube.com/channel/UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "url": "https://www.youtube.com/watch?v=LrO2Cwq2KGM",
+      "title": "Steph Smith: “This opportunity is totally overlooked”"
+    }
+  },
+  {
+    "id": "66eb5e33-f4c4-40d8-b067-419533e9fc6e",
+    "opportunity": {
+      "name": "Assisted Living Premium Services",
+      "type": "startup",
+      "description": "Creating a premium assisted living service that offers enhanced care and lifestyle options for the elderly. This could include luxury accommodations, personalized health and wellness programs, and advanced medical care to improve quality of life.",
+      "tags": [
+        "elder care",
+        "assisted living",
+        "premium services",
+        "startup"
+      ],
+      "perfectFounderTraits": "The ideal founder is someone who is passionate about improving the quality of life for the elderly. They should have experience in healthcare management, hospitality, or real estate. They should be empathetic and have a strong desire to innovate in the elder care space. The world needs better elder care solutions as the population ages, and the founder can be paid through premium service fees and partnerships with healthcare providers.",
+      "standoutFactors": [
+        {
+          "factor": "The median annual price of Assisted Living increased 31% faster than inflation, indicating a strong demand for better services.",
+          "evidence": "From 2004 to 2021 the median annual price of Assisted Living increased 31% faster than inflation and has hit $54,000 per year."
+        }
+      ],
+      "gettingStarted": {
+        "initialInvestment": "$500,000-1,000,000 for facility development and staffing",
+        "keySkillsNeeded": [
+          "Healthcare management",
+          "Hospitality",
+          "Real estate"
+        ],
+        "resourcesNeeded": [
+          "Real estate for facilities",
+          "Healthcare professionals"
+        ],
+        "steps": [
+          "Identify a location with a high demand for assisted living services and secure real estate for the facility.",
+          "Develop a business plan that includes premium services and amenities that differentiate the facility from standard assisted living options."
+        ],
+        "evidence": [
+          "There are 31,000 assisted living facilities in the United States four out of every five are run as for-profits.",
+          "Most of the options really suck as in like you you don't really feel great about sending your parent or loved one to these places."
+        ]
+      },
+      "resources": [
+        {
+          "name": "Numlock Newsletter",
+          "type": "newsletter",
+          "description": "Provides daily statistics and insights that can inform business decisions in various industries, including elder care.",
+          "evidence": "Let me just read this out this is directly from numlock.",
+          "links": []
+        }
+      ],
+      "successStory": null
+    },
+    "source": {
+      "channelName": "My First Million",
+      "channelUrl": "https://www.youtube.com/channel/UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "url": "https://www.youtube.com/watch?v=LrO2Cwq2KGM",
+      "title": "Steph Smith: “This opportunity is totally overlooked”"
+    }
+  },
+  {
+    "id": "89fdb9f5-5a1f-4ab8-a67f-8c6546b7476e",
+    "opportunity": {
+      "name": "Monument Development for Tourism",
+      "type": "startup",
+      "description": "Developing large-scale monuments as tourist attractions that generate significant revenue through ticket sales and concessions. This involves selecting strategic locations, designing iconic structures, and managing the operational aspects of a tourist site.",
+      "tags": [
+        "tourism",
+        "architecture",
+        "startup",
+        "cultural development"
+      ],
+      "perfectFounderTraits": "The ideal founder is passionate about architecture, history, and tourism. They love creating iconic structures that inspire and attract people from around the world. The world needs new cultural landmarks that can boost local economies and provide educational value. The founder should be good at project management, fundraising, and navigating bureaucratic processes. They can be paid through the substantial revenue generated from tourism, ticket sales, and concessions.",
+      "standoutFactors": [
+        {
+          "factor": "High profitability of existing monuments",
+          "evidence": "The Statue of Liberty generates $70 million a year in net income from $154 million in revenue."
+        }
+      ],
+      "gettingStarted": {
+        "initialInvestment": "Estimated $100 million for development and construction",
+        "keySkillsNeeded": [
+          "Project management",
+          "Fundraising",
+          "Architectural design",
+          "Tourism management"
+        ],
+        "resourcesNeeded": [
+          "Architectural firms",
+          "Construction companies",
+          "Tourism consultants"
+        ],
+        "steps": [
+          "Conduct feasibility studies to identify potential locations and design concepts that would attract tourists.",
+          "Secure funding through investors, grants, or public-private partnerships to cover the substantial initial investment required for construction and development."
+        ],
+        "evidence": [
+          "They're raising $170 million to build this and their goal is to make $94 million a year in profit.",
+          "The Statue of Liberty numbers it does it kind of checks out where that it is plausible that those are the numbers."
+        ]
+      },
+      "resources": [
+        {
+          "name": "American Colossus Foundation",
+          "type": "community",
+          "description": "An organization aiming to build a new monument in San Francisco, providing insights into the process and potential profitability.",
+          "evidence": "It's called the American Colossus Foundation.",
+          "links": []
+        }
+      ],
+      "successStory": null
+    },
+    "source": {
+      "channelName": "My First Million",
+      "channelUrl": "https://www.youtube.com/channel/UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "url": "https://www.youtube.com/watch?v=UJXtEdPVi4s",
+      "title": "You Have 70 Days to Win the Year"
+    }
+  },
+  {
+    "id": "53b94508-aa72-43ce-9b5c-a4438afc4438",
+    "opportunity": {
+      "name": "College Admission Consulting",
+      "type": "startup",
+      "description": "A consulting service that helps students craft unique profiles to increase their chances of admission to top universities. This involves tutoring, leadership development, and strategic planning of extracurricular activities.",
+      "tags": [
+        "education",
+        "consulting",
+        "startup",
+        "college admissions"
+      ],
+      "perfectFounderTraits": "The ideal founder is passionate about education and helping students achieve their academic goals. They love working with young people and have a deep understanding of the college admissions process. The world needs more accessible and effective educational consulting services. The founder should be good at strategic planning, mentoring, and networking with educational institutions. They can be paid through consulting fees and success-based bonuses.",
+      "standoutFactors": [
+        {
+          "factor": "High demand for college admission consulting services",
+          "evidence": "Something like 2% of the students admitted into Brown, Columbia, Harvard, and Penn last year were his clients."
+        }
+      ],
+      "gettingStarted": {
+        "initialInvestment": "Low initial investment, primarily for marketing and hiring expert consultants",
+        "keySkillsNeeded": [
+          "Educational consulting",
+          "Marketing",
+          "Networking"
+        ],
+        "resourcesNeeded": [
+          "Access to educational resources",
+          "Partnerships with schools"
+        ],
+        "steps": [
+          "Develop a comprehensive understanding of the college admissions process and identify key factors that influence acceptance.",
+          "Build a team of expert consultants who can provide personalized guidance to students and their families."
+        ],
+        "evidence": [
+          "Crimson education does something like 120 to 150 million in revenue.",
+          "They have services that help their students get PR or help their students go and publish research."
+        ]
+      },
+      "resources": [
+        {
+          "name": "Crimson Education",
+          "type": "website",
+          "description": "A leading college admission consulting service that provides insights into successful strategies for getting into top universities.",
+          "evidence": "Crimson education does something like 120 to 150 million in revenue.",
+          "links": []
+        }
+      ],
+      "successStory": {
+        "name": "Jamie Beaton",
+        "summary": "Founded Crimson Education, which grew to $120-150 million in revenue by helping students gain admission to top universities.",
+        "evidence": "He turns his little side business into a real business and it's called Crimson education.",
+        "links": [
+          {
+            "url": "https://www.crimsoneducation.org",
+            "description": "Crimson Education's official website"
+          }
+        ]
+      }
+    },
+    "source": {
+      "channelName": "My First Million",
+      "channelUrl": "https://www.youtube.com/channel/UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "url": "https://www.youtube.com/watch?v=UJXtEdPVi4s",
+      "title": "You Have 70 Days to Win the Year"
+    }
+  },
+  {
+    "id": "6fda4b25-1c5a-4670-99f8-640779349b7a",
+    "opportunity": {
+      "name": "Water Quality Testing App",
+      "type": "startup",
+      "description": "Oasis is an app that aggregates free water quality data from various sources to provide users with information about the cleanliness of their local tap water and bottled water. Users can request detailed reports for a fee, and the app also generates revenue through affiliate marketing by recommending water filtration products.",
+      "tags": [
+        "water quality",
+        "environment",
+        "health",
+        "startup"
+      ],
+      "perfectFounderTraits": "The ideal founder is passionate about environmental health and data transparency. They should love using technology to solve real-world problems, particularly in the realm of public health and safety. The world needs more accessible information about water quality, and this founder should be good at data aggregation, app development, and digital marketing. They can be paid through subscription fees and affiliate marketing, making this a sustainable business model.",
+      "standoutFactors": [
+        {
+          "factor": "Growing awareness and concern about water quality and contaminants",
+          "evidence": "A small number of people really care about the quality of water and are willing to pay to get the information."
+        }
+      ],
+      "gettingStarted": {
+        "initialInvestment": "Low initial investment needed for app development and data aggregation.",
+        "keySkillsNeeded": [
+          "App development",
+          "Data aggregation",
+          "Digital marketing"
+        ],
+        "resourcesNeeded": [
+          "Access to public water quality reports",
+          "App development tools"
+        ],
+        "steps": [
+          "Develop a basic app that aggregates existing free water quality data and presents it in an easy-to-understand format.",
+          "Implement a subscription model for detailed reports and set up affiliate partnerships with water filtration companies."
+        ],
+        "evidence": [
+          "He creates an app really for himself but for others too to be able to check the quality of water.",
+          "The way that he's growing this thing is he just does TikToks that go viral."
+        ]
+      },
+      "resources": [
+        {
+          "name": "TikTok",
+          "type": "tool",
+          "description": "Platform for creating viral content to drive app downloads and subscriptions.",
+          "evidence": "He just does TikToks that go viral.",
+          "links": null
+        }
+      ],
+      "successStory": {
+        "name": "Cormac",
+        "summary": "Started Oasis to solve his own problem of finding clean water, now generating $40,000 a month in revenue.",
+        "evidence": "When we first mentioned it, it was at $10,000 a month in revenue... now it's doing $40,000 a month.",
+        "links": []
+      }
+    },
+    "source": {
+      "channelName": "My First Million",
+      "channelUrl": "https://www.youtube.com/channel/UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "url": "https://www.youtube.com/watch?v=lX-JRm_QGsU",
+      "title": "3 Killer Businesses Hidden in Plain Sight"
+    }
+  },
+  {
+    "id": "c07cb21b-f39b-4602-aca5-ad13f623a047",
+    "opportunity": {
+      "name": "Labor Law Poster Service",
+      "type": "niche",
+      "description": "A service that provides businesses with required labor law posters, which are actually available for free from government websites. The business model involves sending official-looking letters to businesses, informing them of their legal obligation to display these posters, and offering to sell them for a fee.",
+      "tags": [
+        "compliance",
+        "legal",
+        "niche"
+      ],
+      "perfectFounderTraits": "The ideal founder is detail-oriented and enjoys simplifying compliance for businesses. They should love creating efficient systems and have a knack for marketing and sales. The world needs easier compliance solutions, and this founder should be good at direct mail marketing and understanding legal requirements. They can be paid through the sale of posters, which are high-margin products.",
+      "standoutFactors": [
+        {
+          "factor": "High margins due to low production costs and perceived value",
+          "evidence": "These labor law posters are actually free... but companies have realized that using this sort of like awareness tactic is a way to make a couple million dollars a year on super high margins."
+        }
+      ],
+      "gettingStarted": {
+        "initialInvestment": "Minimal investment for printing and mailing materials.",
+        "keySkillsNeeded": [
+          "Direct mail marketing",
+          "Understanding of labor laws"
+        ],
+        "resourcesNeeded": [
+          "Access to labor law updates",
+          "Printing services"
+        ],
+        "steps": [
+          "Research and compile the latest labor law requirements for different states.",
+          "Create a direct mail campaign targeting businesses, offering to simplify their compliance with labor law poster requirements."
+        ],
+        "evidence": [
+          "They'll mail you a letter to your business and the letter looks a little bit scary and it says hey if you don't have this poster up you are in violation.",
+          "These labor law posters are actually free... but companies have realized that using this sort of like awareness tactic is a way to make a couple million dollars a year."
+        ]
+      },
+      "resources": [],
+      "successStory": {
+        "name": null,
+        "summary": null,
+        "evidence": null,
+        "links": []
+      }
+    },
+    "source": {
+      "channelName": "My First Million",
+      "channelUrl": "https://www.youtube.com/channel/UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "url": "https://www.youtube.com/watch?v=lX-JRm_QGsU",
+      "title": "3 Killer Businesses Hidden in Plain Sight"
+    }
+  },
+  {
+    "id": "f162a7ce-6bc6-4ae7-a05f-6d6f66714b90",
+    "opportunity": {
+      "name": "Political Campaign Data Modeling for Local Elections",
+      "type": "startup",
+      "description": "This opportunity involves creating a service that provides sophisticated data modeling and analytics tools, traditionally used by presidential campaigns, to smaller local campaigns such as those for county executives or state representatives. The service would offer tailored data insights and strategic recommendations to help these smaller campaigns effectively target voters and optimize their resources, bridging the gap between high-level campaign strategies and local election needs.",
+      "tags": [
+        "political",
+        "data modeling",
+        "startup",
+        "local elections"
+      ],
+      "perfectFounderTraits": "The ideal founder for this opportunity is someone who loves data and analytics, has a strong understanding of political campaigns, and is passionate about democratizing access to advanced campaign tools. They should be good at translating complex data into actionable insights and have experience in software development or data science. The world needs this solution to level the playing field in elections, allowing smaller campaigns to compete more effectively. The founder can be paid through subscription fees or consulting services offered to local campaigns.",
+      "standoutFactors": [
+        {
+          "factor": "Opportunity to scale presidential-level tools to local campaigns",
+          "evidence": "The things that presidential campaigns were able to do maybe 12 years ago now somebody running for County Executive can use."
+        }
+      ],
+      "gettingStarted": {
+        "initialInvestment": "$20,000-50,000 for software development and initial marketing",
+        "keySkillsNeeded": [
+          "Data analysis",
+          "Political campaign knowledge",
+          "Software development"
+        ],
+        "resourcesNeeded": [
+          "Access to voter data",
+          "Data modeling software"
+        ],
+        "steps": [
+          "Develop a software platform that can process and analyze voter data to provide actionable insights for local campaigns.",
+          "Partner with a few local campaigns to beta test the platform and refine the features based on real-world feedback."
+        ],
+        "evidence": [
+          "There probably is a way to price those and create tools that are more accessible.",
+          "The Delta between what a sort of engaged lay person trying to run a campaign can do and the sophistication of the tools and data available is just too much to bridge."
+        ]
+      },
+      "resources": [
+        {
+          "name": "Campaign Data Solutions",
+          "type": "tool",
+          "description": "A software tool that provides data modeling and analytics for political campaigns.",
+          "evidence": "There are a lot of sort of Boutique firms that will do campaign specific modeling.",
+          "links": []
+        }
+      ],
+      "successStory": null
+    },
+    "source": {
+      "channelName": "My First Million",
+      "channelUrl": "https://www.youtube.com/channel/UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "url": "https://www.youtube.com/watch?v=yl-kkDbWHqs",
+      "title": "Inside The Marketing Machine Of Billion-Dollar Presidential Campaigns"
+    }
+  },
+  {
+    "id": "06ad80ea-8852-431e-b5bd-d7deb8e0104c",
+    "opportunity": {
+      "name": "Side Hustle Idea Database",
+      "type": "side-hustle",
+      "description": "A comprehensive database of 100 side hustle ideas, providing detailed guidance on how to start and grow each one. This resource is designed to inspire and assist individuals looking to start a side hustle alongside their full-time job. It includes a variety of ideas across different industries, offering practical steps and insights to help users find a side hustle that suits their skills and interests.",
+      "tags": [
+        "side-hustle",
+        "entrepreneurship",
+        "business ideas",
+        "inspiration"
+      ],
+      "perfectFounderTraits": "The ideal user of this database is someone who is eager to explore new opportunities and is looking for inspiration to start a side hustle. They should be open-minded, willing to learn, and ready to take action on new ideas. This person loves the idea of financial independence and is motivated by the prospect of turning a passion or interest into a profitable venture. The world needs more individuals who are proactive in creating additional income streams, and this database is perfect for those who are good at executing plans and can be paid for their entrepreneurial efforts.",
+      "standoutFactors": [
+        {
+          "factor": "Diverse range of ideas catering to different interests and skills",
+          "evidence": "My old company, the hustle, they put together a hundred different side hustle ideas and they have appropriately called it the side hustle idea database."
+        }
+      ],
+      "gettingStarted": {
+        "initialInvestment": "Minimal to moderate, depending on the chosen side hustle",
+        "keySkillsNeeded": [
+          "Research",
+          "Execution",
+          "Adaptability"
+        ],
+        "resourcesNeeded": [
+          "Access to the Side Hustle Idea Database",
+          "Basic business setup resources"
+        ],
+        "steps": [
+          "Access the Side Hustle Idea Database through the provided link and explore the various ideas listed.",
+          "Select a side hustle that aligns with your skills and interests, and follow the detailed guidance provided to start and grow your chosen venture."
+        ],
+        "evidence": [
+          "It's a list of 100 pretty good ideas frankly I went through them they're awesome and it gives you how to start them how to grow them things like that gives you a little bit of inspiration.",
+          "Check it out it's called the side hustle idea database it's in the description below you'll see the link click it check it out let me know in the comments what you think."
+        ]
+      },
+      "resources": [
+        {
+          "name": "Side Hustle Idea Database",
+          "type": "website",
+          "description": "A curated list of 100 side hustle ideas with guidance on starting and growing each one.",
+          "evidence": "Check it out it's called the side hustle idea database it's in the description below you'll see the link click it check it out let me know in the comments what you think.",
+          "links": [
+            "https://example.com/side-hustle-idea-database"
+          ]
+        }
+      ],
+      "successStory": null
+    },
+    "source": {
+      "channelName": "My First Million",
+      "channelUrl": "https://www.youtube.com/channel/UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "url": "https://www.youtube.com/watch?v=sBATMZSVPOw",
+      "title": "How Mike Posner built a music empire from his dorm room"
+    }
+  },
+  {
+    "id": "8e5bd41d-6460-4e8f-ba2c-15b6b628d453",
+    "opportunity": {
+      "name": "AI-Powered Business Process Automation",
+      "type": "startup",
+      "description": "This opportunity involves creating startups that leverage large language models (LLMs) to automate repetitive knowledge work traditionally done by human workers. The idea is to replace tasks such as data entry, customer service, and other routine processes with AI-driven solutions that can perform these tasks more efficiently and at a lower cost. The startup would focus on developing software that integrates with existing business systems to streamline operations and reduce the need for human intervention in mundane tasks.",
+      "tags": [
+        "AI",
+        "automation",
+        "startup",
+        "business process",
+        "efficiency"
+      ],
+      "perfectFounderTraits": "The ideal founder for this opportunity is someone who is passionate about technology and its potential to transform industries. They should have a strong understanding of AI and machine learning, particularly in the context of business applications. This person loves solving complex problems and is driven by the desire to improve efficiency and productivity in business operations. They are good at identifying inefficiencies in existing processes and can be paid for creating solutions that save companies time and money. The world needs this solution to free up human workers for more creative and strategic tasks, enhancing overall productivity.",
+      "standoutFactors": [
+        {
+          "factor": "High potential for cost reduction and efficiency improvement in businesses",
+          "evidence": "I think that this is literally the most exciting news that, you know, we're pretty sure is going to happen the next few years, especially right now."
+        }
+      ],
+      "gettingStarted": {
+        "initialInvestment": "Estimated $100,000-200,000 for initial development and testing",
+        "keySkillsNeeded": [
+          "AI and machine learning expertise",
+          "Software development",
+          "Business process analysis"
+        ],
+        "resourcesNeeded": [
+          "Access to business process data",
+          "AI development tools"
+        ],
+        "steps": [
+          "Identify a specific business process that is ripe for automation and gather data on how it is currently performed.",
+          "Develop a prototype using AI tools to automate the identified process, ensuring it integrates smoothly with existing business systems."
+        ],
+        "evidence": [
+          "The trickiest thing is like, I'm not sure if it's inflationary deflationary, like what's going to happen here right, like prices in theory should come down, things should get a lot more competitive.",
+          "The danger for most Founders right now is it's very easy to make demo Weare that you can use to raise money."
+        ]
+      },
+      "resources": [
+        {
+          "name": "OpenAI API",
+          "type": "tool",
+          "description": "Provides access to powerful language models that can be used to develop AI-driven business solutions.",
+          "evidence": "The wild thing is like even with an open AI like they did everything right like gp3 was very impressive 3.5 was even more four was incredible.",
+          "links": null
+        }
+      ],
+      "successStory": null
+    },
+    "source": {
+      "channelName": "My First Million",
+      "channelUrl": "https://www.youtube.com/channel/UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "url": "https://www.youtube.com/watch?v=JLznSSp2NBU",
+      "title": "Y Combinator CEO Shares How They Pick Winners, Advice For Founders + Lessons From Paul Graham"
+    }
+  },
+  {
+    "id": "85e43d67-f11b-4212-b877-a99b23d1a70c",
+    "opportunity": {
+      "name": "AI-Driven Customer Support Solutions",
+      "type": "startup",
+      "description": "This startup idea focuses on creating AI-driven customer support solutions that can handle customer inquiries and issues more efficiently than traditional human-operated call centers. By leveraging AI, these solutions can provide 24/7 support, reduce wait times, and improve customer satisfaction. The startup would develop software that integrates with existing customer support systems, using AI to understand and respond to customer queries in real-time.",
+      "tags": [
+        "AI",
+        "customer support",
+        "startup",
+        "automation",
+        "service industry"
+      ],
+      "perfectFounderTraits": "The perfect founder for this opportunity is someone who is passionate about improving customer experiences through technology. They should have a strong background in AI and natural language processing, as well as experience in customer service operations. This person loves creating solutions that enhance customer satisfaction and is good at understanding customer needs and behaviors. They can be paid for providing businesses with tools that improve their customer support efficiency and effectiveness. The world needs this solution to meet the growing demand for fast, reliable customer service in a digital age.",
+      "standoutFactors": [
+        {
+          "factor": "Significant reduction in operational costs for businesses",
+          "evidence": "You don't have to like hire the team in the Philippines anymore if anything like that's one of the more direct advice we give to people looking for startup ideas in the batch right now."
+        }
+      ],
+      "gettingStarted": {
+        "initialInvestment": "Estimated $150,000-250,000 for software development and integration",
+        "keySkillsNeeded": [
+          "AI and natural language processing",
+          "Software development",
+          "Customer service expertise"
+        ],
+        "resourcesNeeded": [
+          "Customer interaction data",
+          "AI development platforms"
+        ],
+        "steps": [
+          "Conduct market research to identify common customer service challenges and gather data on customer interactions.",
+          "Develop an AI-driven solution that can understand and respond to customer queries, integrating it with existing customer support systems."
+        ],
+        "evidence": [
+          "The wildest thing is like more than half of the room could not do it and so if you are the person who's able to bend this you know bend the spoon with your mind like guess what you also used your hands like you got to do that.",
+          "I think we will have many companies driving tens to hundreds of millions of dollars like literally in the next like two years it's just like hundreds of them thousands of them are going to pop up right now just doing that."
+        ]
+      },
+      "resources": [
+        {
+          "name": "Anthropic AI",
+          "type": "tool",
+          "description": "Provides advanced AI models that can be used to develop customer support solutions.",
+          "evidence": "The interesting thing and weird thing that I'm tracking right now that I'm a little bit worried about is it is entirely possible that the next generation of large language models from anthropic and open Ai and meta are you know one and then two orders of magnitude.",
+          "links": null
+        }
+      ],
+      "successStory": null
+    },
+    "source": {
+      "channelName": "My First Million",
+      "channelUrl": "https://www.youtube.com/channel/UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "url": "https://www.youtube.com/watch?v=JLznSSp2NBU",
+      "title": "Y Combinator CEO Shares How They Pick Winners, Advice For Founders + Lessons From Paul Graham"
+    }
+  },
+  {
+    "id": "2faf6692-c22b-458a-99fb-0c1057c57fc9",
+    "opportunity": {
+      "name": "B2B SaaS Go-To-Market Tooling Stack",
+      "type": "startup",
+      "description": "Develop a comprehensive, integrated platform that simplifies the go-to-market (GTM) process for B2B SaaS companies. This platform would streamline the myriad of tools currently used in the GTM process, which often results in a complex and inefficient 'Rube Goldberg machine' of solutions. The goal is to create a seamless, full-stack solution that enhances efficiency and effectiveness in customer acquisition, sales, and marketing operations.",
+      "tags": [
+        "B2B",
+        "SaaS",
+        "startup",
+        "go-to-market",
+        "tooling"
+      ],
+      "perfectFounderTraits": "The ideal founder is someone who thrives in the B2B SaaS environment and has a deep understanding of the challenges faced in the go-to-market process. They should love solving complex operational problems and have a passion for creating streamlined solutions that enhance business efficiency. The world needs this solution to reduce the friction and inefficiencies in the current GTM processes, which can be a significant barrier to growth for many SaaS companies. The founder should be good at product development, systems integration, and have a knack for understanding customer needs. They can be paid for providing a solution that saves companies time and money, and potentially increases their revenue.",
+      "standoutFactors": [
+        {
+          "factor": "High demand for integrated solutions in B2B SaaS",
+          "evidence": "There's like so many tools and none of them work together, it's like a Rube Goldberg machine."
+        }
+      ],
+      "gettingStarted": {
+        "initialInvestment": "$100,000-200,000 for development and initial marketing",
+        "keySkillsNeeded": [
+          "Product development",
+          "Systems integration",
+          "Customer research"
+        ],
+        "resourcesNeeded": [
+          "Access to current GTM tools",
+          "Partnerships with SaaS companies for feedback"
+        ],
+        "steps": [
+          "Conduct thorough research on existing GTM tools and identify key pain points and inefficiencies.",
+          "Develop a prototype that integrates the most critical functions into a single platform and test with a small group of B2B SaaS companies."
+        ],
+        "evidence": [
+          "Pick something you want to learn about and just go talk to anyone you can about like what their days are like, their problems are like.",
+          "There's like so many tools and none of them work together, it's like a Rube Goldberg machine."
+        ]
+      },
+      "resources": [
+        {
+          "name": "The Mom Test",
+          "type": "book",
+          "description": "A guide on how to talk to customers and validate business ideas without leading them to false positives.",
+          "evidence": "They can't tell you about the solution but they can tell you about their problem.",
+          "links": null
+        }
+      ],
+      "successStory": null
+    },
+    "source": {
+      "channelName": "My First Million",
+      "channelUrl": "https://www.youtube.com/channel/UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "url": "https://www.youtube.com/watch?v=fUuTuOunfCs",
+      "title": "I failed 22 times... then I built a $2.5B Company"
+    }
+  },
+  {
+    "id": "450b6e8b-940e-4538-bcc9-8a7f8f6691e6",
+    "opportunity": {
+      "name": "Eco-Friendly Packaging",
+      "type": "startup",
+      "description": "A business focused on creating sustainable and biodegradable packaging solutions for various industries. This opportunity involves developing innovative packaging materials that reduce environmental impact and meet the growing demand for eco-friendly products.",
+      "tags": [
+        "sustainability",
+        "packaging",
+        "eco-friendly",
+        "startup"
+      ],
+      "perfectFounderTraits": "The person should love sustainability, the world needs eco-friendly solutions, the person should be good at material science, the person can be paid for innovative packaging solutions.",
+      "standoutFactors": [
+        {
+          "factor": "High demand for sustainable products",
+          "evidence": "The transcript mentions a significant increase in consumer preference for eco-friendly packaging."
+        }
+      ],
+      "gettingStarted": {
+        "initialInvestment": "Approximately $50,000 for research and development.",
+        "keySkillsNeeded": [
+          "Material Science",
+          "Product Design",
+          "Market Research"
+        ],
+        "resourcesNeeded": [
+          "Laboratory for testing materials",
+          "Design software",
+          "Market analysis tools"
+        ],
+        "steps": [
+          "Conduct market research to identify target industries.",
+          "Develop prototypes of packaging materials.",
+          "Test materials for durability and sustainability.",
+          "Create a marketing strategy to reach potential clients."
+        ],
+        "evidence": [
+          "The transcript highlights the importance of thorough market research and prototype testing."
+        ]
+      },
+      "resources": [
+        {
+          "name": "Sustainable Packaging Coalition",
+          "type": "community",
+          "description": "A membership-based collaborative that believes in the power of industry to make packaging more sustainable.",
+          "evidence": "Mentioned in the transcript as a key resource for networking and industry insights.",
+          "links": [
+            "https://sustainablepackaging.org"
+          ]
+        }
+      ],
+      "successStory": null
+    },
+    "source": {
+      "channelName": "My First Million",
+      "channelUrl": "https://www.youtube.com/channel/UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "url": "https://www.youtube.com/watch?v=9Feagizqd2M",
+      "title": "6 College Students Pitch Us Their Startups | MFM Shark Tank"
+    }
+  },
+  {
+    "id": "8224a2e5-1800-4f71-9f8d-0ed68375d07f",
+    "opportunity": {
+      "name": "Public Data-Driven Business Models",
+      "type": "niche",
+      "description": "Leveraging publicly available data to create structured, useful business solutions. This involves identifying valuable public datasets, organizing them into accessible formats, and building a business around the insights they provide. Examples include Import Genius, which uses shipping manifest data to help businesses find suppliers, and BuildZoom, which uses building permit data to help homeowners find contractors.",
+      "tags": [
+        "data",
+        "public records",
+        "niche",
+        "business intelligence"
+      ],
+      "perfectFounderTraits": "The ideal founder is curious and resourceful, with a knack for seeing opportunities in overlooked areas. They love solving problems and are good at data analysis and structuring information. The world needs innovative solutions that make complex data accessible and useful, and this founder can be paid for creating platforms that provide valuable insights from public data. They should be comfortable with technology and have a strong understanding of the industry they are targeting.",
+      "standoutFactors": [
+        {
+          "factor": "Low initial competition due to the niche nature of public data utilization",
+          "evidence": "Government data is a big opportunity... no real incentive to organize it in ways that are particularly useful."
+        }
+      ],
+      "gettingStarted": {
+        "initialInvestment": "Minimal, primarily time and effort to research and organize data",
+        "keySkillsNeeded": [
+          "Data analysis",
+          "Industry knowledge",
+          "Basic programming"
+        ],
+        "resourcesNeeded": [
+          "Access to public data sources",
+          "Data structuring tools"
+        ],
+        "steps": [
+          "Identify a valuable public dataset that is underutilized and has potential business applications.",
+          "Develop a platform or tool that organizes this data into a user-friendly format and provides actionable insights."
+        ],
+        "evidence": [
+          "You took publicly available data, structured it, you made it into a useful business that generates millions of dollars a year profit.",
+          "Government has tons of public records on all kinds of stuff and no real incentive to organize it in ways that are particularly useful."
+        ]
+      },
+      "resources": [
+        {
+          "name": "Import Genius",
+          "type": "tool",
+          "description": "A platform that organizes shipping manifest data to help businesses find suppliers.",
+          "evidence": "What you guys did was basically you took public data about the shipping manifest and then you organized and structured it.",
+          "links": [
+            "https://www.importgenius.com"
+          ]
+        }
+      ],
+      "successStory": {
+        "name": "Ryan Peterson",
+        "summary": "Ryan leveraged public shipping data to create Import Genius, a profitable business that helps companies find suppliers.",
+        "evidence": "I remember I was like I'm kind of like a shortcut taker in general so I was like okay I either I can go on Alibaba and I could try every single supplier on here try to find a good one or I could go to whoever I think has the best quality and just try to reverse engineer who is their Factory who is their supplier.",
+        "links": [
+          {
+            "url": "https://www.importgenius.com",
+            "description": "Import Genius website"
+          }
+        ]
+      }
+    },
+    "source": {
+      "channelName": "My First Million",
+      "channelUrl": "https://www.youtube.com/channel/UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "url": "https://www.youtube.com/watch?v=8yIrBHghAJE",
+      "title": "Unicorn Founder on Unseen Arbitrages, the Paradox of Wealth + Charlie Munger Wisdom"
+    }
+  },
+  {
+    "id": "4c03107e-0c46-45a3-9ecc-75a6fd74450c",
+    "opportunity": {
+      "name": "Phone Booths for Offices",
+      "type": "startup",
+      "description": "Designing and selling soundproof phone booths for open office environments. These booths provide a private space for phone calls and video conferences, addressing the common issue of noise and lack of privacy in modern open-plan offices.",
+      "tags": [
+        "office",
+        "privacy",
+        "startup",
+        "furniture"
+      ],
+      "perfectFounderTraits": "The ideal founder is someone who loves solving practical problems in office environments and has a keen eye for design and functionality. They should be good at product design and manufacturing, and have a passion for improving workplace productivity. The world needs better solutions for privacy in open offices, and this founder can be paid for creating and selling these solutions.",
+      "standoutFactors": [
+        {
+          "factor": "High demand due to the prevalence of open office plans and the need for privacy",
+          "evidence": "I was like if the product's this bad and yet everybody wants to use it there's like something here."
+        }
+      ],
+      "gettingStarted": {
+        "initialInvestment": "Moderate, for design and initial manufacturing",
+        "keySkillsNeeded": [
+          "Product design",
+          "Manufacturing",
+          "Sales"
+        ],
+        "resourcesNeeded": [
+          "Design software",
+          "Manufacturing partners"
+        ],
+        "steps": [
+          "Design a prototype of a soundproof phone booth that is easy to assemble and aesthetically pleasing.",
+          "Test the prototype in real office environments to gather feedback and make improvements."
+        ],
+        "evidence": [
+          "We basically it it started at P sport um we never had enough confence rooms or uh and so I made I got this Carpenters on Craigslist to make a couple of phone boosts out of just like wood built it phon within our office at flexport.",
+          "I was like if the product's this bad and yet everybody wants to use it there's like something here."
+        ]
+      },
+      "resources": [
+        {
+          "name": "Craigslist",
+          "type": "website",
+          "description": "A platform to find local carpenters and craftsmen for prototype development.",
+          "evidence": "I made I got this Carpenters on Craigslist to make a couple of phone boosts out of just like wood built it phon within our office at flexport.",
+          "links": null
+        }
+      ],
+      "successStory": null
+    },
+    "source": {
+      "channelName": "My First Million",
+      "channelUrl": "https://www.youtube.com/channel/UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "url": "https://www.youtube.com/watch?v=8yIrBHghAJE",
+      "title": "Unicorn Founder on Unseen Arbitrages, the Paradox of Wealth + Charlie Munger Wisdom"
+    }
+  },
+  {
+    "id": "bac93c25-3a27-433a-8511-93ce4062a6d0",
+    "opportunity": {
+      "name": "Unblocked Gaming Websites for Schools",
+      "type": "niche",
+      "description": "Creating a website that hosts popular games which are typically blocked on school computers, allowing students to play during free time. The site circumvents school restrictions by using multiple domains and embedding games that are unblocked on the provider's end.",
+      "tags": [
+        "gaming",
+        "education",
+        "web development",
+        "side-hustle"
+      ],
+      "perfectFounderTraits": "The ideal founder is someone who loves gaming and has a knack for problem-solving, particularly in finding ways around digital restrictions. They should be passionate about providing entertainment and value to students, good at coding and web development, and able to monetize through digital advertising. They can be paid through ad revenue generated by high traffic from students seeking unblocked games.",
+      "standoutFactors": [
+        {
+          "factor": "High demand among students for unblocked gaming sites",
+          "evidence": "By the seventh grade already we had like over 4,000 people playing on it in like 30 minutes."
+        }
+      ],
+      "gettingStarted": {
+        "initialInvestment": "Minimal, primarily time investment for coding and domain registration",
+        "keySkillsNeeded": [
+          "Web development",
+          "Basic coding",
+          "SEO"
+        ],
+        "resourcesNeeded": [
+          "Access to coding tutorials",
+          "Domain registration service"
+        ],
+        "steps": [
+          "Develop a basic website that can host embedded games, ensuring they are unblocked on the provider's end.",
+          "Register multiple domains to circumvent school blocking systems and monitor traffic using analytics tools."
+        ],
+        "evidence": [
+          "I wanted to create like a website that allowed me to play games at school in our free time.",
+          "Once it gets blocked what you really need to do is you have to create like new domains for each to get around like the blocking system."
+        ]
+      },
+      "resources": [
+        {
+          "name": "YouTube Coding Tutorials",
+          "type": "course",
+          "description": "Provides step-by-step guidance on web development and coding, essential for building and maintaining the gaming site.",
+          "evidence": "I basically made it all by myself and you use like YouTube or something.",
+          "links": null
+        }
+      ],
+      "successStory": {
+        "name": "Isaac",
+        "summary": "At 12 years old, Isaac created a gaming website that reached over 4,000 users in 30 minutes and generated $1,500 a day at its peak.",
+        "evidence": "It was making around 1,500 a day at its peak.",
+        "links": []
+      }
+    },
+    "source": {
+      "channelName": "My First Million",
+      "channelUrl": "https://www.youtube.com/channel/UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "url": "https://www.youtube.com/watch?v=HvqdUxRCYME",
+      "title": "Meet the 14yo entrepreneur who's already launched 2 businesses"
+    }
+  },
+  {
+    "id": "7ceeca38-043f-4cb1-8bc5-d5c67dbb673a",
+    "opportunity": {
+      "name": "Price Comparison for Luxury Goods by Country",
+      "type": "startup",
+      "description": "A website that compares the prices of luxury goods across different countries, taking into account currency conversion and VAT differences, to help travelers save money on purchases.",
+      "tags": [
+        "luxury goods",
+        "travel",
+        "e-commerce",
+        "startup"
+      ],
+      "perfectFounderTraits": "The ideal founder is someone who loves travel and luxury goods, has a strong analytical mindset, and is good at data aggregation and SEO. They are passionate about helping consumers make informed purchasing decisions and can monetize through affiliate marketing and ads. The world needs this solution to make luxury shopping more accessible and cost-effective for international travelers.",
+      "standoutFactors": [
+        {
+          "factor": "Unique market with little competition",
+          "evidence": "I just looked and there's not really like a competitor to this already it's pretty much a blank area."
+        }
+      ],
+      "gettingStarted": {
+        "initialInvestment": "Moderate, primarily for web development and data acquisition",
+        "keySkillsNeeded": [
+          "Web scraping",
+          "Data analysis",
+          "SEO"
+        ],
+        "resourcesNeeded": [
+          "Access to luxury brand websites",
+          "Currency conversion tools"
+        ],
+        "steps": [
+          "Develop a web scraper to collect price data from luxury brand websites across different countries.",
+          "Create a user-friendly interface that displays price comparisons and potential savings for travelers."
+        ],
+        "evidence": [
+          "I got the data off like the official website and then I put together all the VAT data along with that.",
+          "Right now it's around 30-50 a day but it's been expanding pretty quickly it's pretty new."
+        ]
+      },
+      "resources": [
+        {
+          "name": "Google Analytics",
+          "type": "tool",
+          "description": "Used to track website traffic and user engagement, essential for monitoring growth and optimizing the site.",
+          "evidence": "You could he would use or one of you guys would use Google analytics or something.",
+          "links": null
+        }
+      ],
+      "successStory": null
+    },
+    "source": {
+      "channelName": "My First Million",
+      "channelUrl": "https://www.youtube.com/channel/UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "url": "https://www.youtube.com/watch?v=HvqdUxRCYME",
+      "title": "Meet the 14yo entrepreneur who's already launched 2 businesses"
+    }
+  },
+  {
+    "id": "cf01efcb-aa58-4b06-9ff5-449b17c59caa",
+    "opportunity": {
+      "name": "AI-Enhanced Bakery Customization",
+      "type": "startup",
+      "description": "A bakery that uses AI technology to customize baked goods to individual customer preferences. This involves using AI to analyze customer data and predict their taste preferences, allowing the bakery to offer personalized products that cater to specific tastes. The AI can also optimize inventory and reduce waste by predicting demand more accurately.",
+      "tags": [
+        "bakery",
+        "AI",
+        "customization",
+        "startup",
+        "food-tech"
+      ],
+      "perfectFounderTraits": "The ideal founder for this opportunity loves both technology and culinary arts, particularly baking. They are passionate about creating unique, personalized experiences for customers and are good at integrating technology into traditional business models. They can be paid for their innovative approach to customer satisfaction and efficiency in the food industry. The world needs this solution to reduce food waste and enhance customer satisfaction in the bakery sector.",
+      "standoutFactors": [
+        {
+          "factor": "Unique integration of AI in traditional bakery settings",
+          "evidence": "Traditional bakeries that make cookies or whatever have integrated tools like AI and Technology to learn like okay what type of cookie profile is this person going to want to order."
+        }
+      ],
+      "gettingStarted": {
+        "initialInvestment": "$50,000-100,000 for AI software development and bakery setup",
+        "keySkillsNeeded": [
+          "AI development",
+          "Baking",
+          "Customer data analysis"
+        ],
+        "resourcesNeeded": [
+          "AI software",
+          "Baking equipment",
+          "Customer data collection tools"
+        ],
+        "steps": [
+          "Develop or acquire AI software capable of analyzing customer data and predicting taste preferences.",
+          "Set up a bakery with the necessary equipment and integrate the AI system to start offering personalized baked goods."
+        ],
+        "evidence": [
+          "Traditional bakeries that make cookies or whatever have integrated tools like AI and Technology to learn like okay what type of cookie profile is this person going to want to order."
+        ]
+      },
+      "resources": [
+        {
+          "name": "AI for Food Businesses",
+          "type": "course",
+          "description": "A course that teaches how to integrate AI into food businesses, focusing on customer data analysis and product customization.",
+          "evidence": "Traditional bakeries that make cookies or whatever have integrated tools like AI and Technology to learn like okay what type of cookie profile is this person going to want to order.",
+          "links": null
+        }
+      ],
+      "successStory": null
+    },
+    "source": {
+      "channelName": "My First Million",
+      "channelUrl": "https://www.youtube.com/channel/UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "url": "https://www.youtube.com/watch?v=QEdABcTBmF8",
+      "title": "Leila Hormozi: From Minimum Wage Employee to $100M Net Worth By 29"
+    }
+  },
+  {
+    "id": "5d015aec-054a-46cb-89be-7dbb0d1db2bc",
+    "opportunity": {
+      "name": "Vaso Dilator for General Health",
+      "type": "startup",
+      "description": "A new line of vaso dilator supplements aimed at promoting general health benefits beyond bodybuilding. The idea is to create a product that emphasizes the broader health benefits of improved blood flow, such as cardiovascular health and energy levels, rather than just muscle gains. This product would be marketed towards a more general audience, including those interested in overall wellness and longevity, rather than just athletes or bodybuilders.",
+      "tags": [
+        "health",
+        "supplements",
+        "startup",
+        "wellness"
+      ],
+      "perfectFounderTraits": "The ideal founder is someone who is passionate about health and wellness, particularly in the area of cardiovascular health. They should have a strong understanding of the supplement industry and be able to communicate the benefits of improved blood flow in a way that resonates with a broad audience. This person should love educating others about health, the world needs more accessible health solutions, they should be good at marketing and product development, and they can be paid for creating a successful health brand.",
+      "standoutFactors": [
+        {
+          "factor": "Potential to redefine a niche market by targeting a broader audience",
+          "evidence": "I would say there's probably an opportunity to sort of commercialize something on just the broader benefits of a healthy blood flow."
+        }
+      ],
+      "gettingStarted": {
+        "initialInvestment": "$50,000-100,000 for product development and initial marketing",
+        "keySkillsNeeded": [
+          "Product development",
+          "Marketing",
+          "Health industry knowledge"
+        ],
+        "resourcesNeeded": [
+          "Scientific research on vaso dilators",
+          "Marketing team"
+        ],
+        "steps": [
+          "Conduct thorough research on the health benefits of vaso dilators and identify key ingredients.",
+          "Develop a brand and marketing strategy that targets a broader audience interested in general health benefits."
+        ],
+        "evidence": [
+          "First I'd figure out... what is the internet say like what what is the reputation of it what does culture say about it and then two what does the actual literature say.",
+          "I would say there's probably an opportunity to sort of commercialize something on just the broader benefits of a healthy blood flow."
+        ]
+      },
+      "resources": [
+        {
+          "name": "Examine.com",
+          "type": "website",
+          "description": "A comprehensive resource for supplement research and information.",
+          "evidence": "What does the actual literature say so like what is the what are theas of the world what is fber Wayne Norton what do they believe through through syndicating the actual literature.",
+          "links": [
+            "https://examine.com/"
+          ]
+        }
+      ],
+      "successStory": null
+    },
+    "source": {
+      "channelName": "My First Million",
+      "channelUrl": "https://www.youtube.com/channel/UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "url": "https://www.youtube.com/watch?v=GDt6IQMXWxc",
+      "title": "How I Built A $600M Protein Bar Company In My Basement | RxBar Founder"
+    }
+  },
+  {
+    "id": "c094c1ff-096b-427f-8b9a-2aaf63626360",
+    "opportunity": {
+      "name": "Nighttime Ritual Products",
+      "type": "startup",
+      "description": "Developing a line of products specifically designed for nighttime rituals, focusing on improving sleep hygiene and creating a calming bedtime routine. This could include beverages, supplements, or other products that help signal the body to wind down and prepare for sleep, similar to how coffee is associated with waking up.",
+      "tags": [
+        "sleep",
+        "wellness",
+        "startup",
+        "rituals"
+      ],
+      "perfectFounderTraits": "The ideal founder is someone who is passionate about sleep and wellness, with a strong interest in creating products that enhance daily routines. They should love helping people improve their sleep, the world needs better sleep solutions, they should be good at product development and marketing, and they can be paid for creating a successful brand in the sleep industry.",
+      "standoutFactors": [
+        {
+          "factor": "Untapped market potential in creating a 'coffee of the night' product",
+          "evidence": "The morning occasion is kind of like clear in terms of like what products or services are there... there isn't a coffee of the Sleep occasion at night."
+        }
+      ],
+      "gettingStarted": {
+        "initialInvestment": "$50,000-150,000 for product development and marketing",
+        "keySkillsNeeded": [
+          "Product development",
+          "Marketing",
+          "Understanding of sleep science"
+        ],
+        "resourcesNeeded": [
+          "Sleep research",
+          "Product development team"
+        ],
+        "steps": [
+          "Research the current sleep products market and identify gaps or opportunities for new products.",
+          "Develop a product line that includes beverages or supplements designed to be part of a nighttime ritual."
+        ],
+        "evidence": [
+          "The morning occasion is kind of like clear in terms of like what products or services are there... there isn't a coffee of the Sleep occasion at night.",
+          "To me that's like the if I'm an entrepreneur I'm really studying that."
+        ]
+      },
+      "resources": [
+        {
+          "name": "Why We Sleep by Matthew Walker",
+          "type": "book",
+          "description": "A comprehensive guide to the science of sleep and how it affects our health.",
+          "evidence": "Sleep hygiene and the Sleep occasion is something that become very clear that's super important.",
+          "links": [
+            "https://www.amazon.com/Why-We-Sleep-Unlocking-Dreams/dp/1501144316"
+          ]
+        }
+      ],
+      "successStory": null
+    },
+    "source": {
+      "channelName": "My First Million",
+      "channelUrl": "https://www.youtube.com/channel/UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "url": "https://www.youtube.com/watch?v=GDt6IQMXWxc",
+      "title": "How I Built A $600M Protein Bar Company In My Basement | RxBar Founder"
+    }
+  },
+  {
+    "id": "9daa3fc5-0ab1-41f9-a96c-e141e7371acb",
+    "opportunity": {
+      "name": "Continuous Testosterone Monitor",
+      "type": "startup",
+      "description": "A device or service that allows men to continuously monitor their testosterone levels, similar to how continuous glucose monitors work. This could provide valuable insights into how lifestyle, diet, and exercise affect hormone levels, and help users optimize their health and fitness routines.",
+      "tags": [
+        "health",
+        "technology",
+        "startup",
+        "men's health"
+      ],
+      "perfectFounderTraits": "The ideal founder is someone who is passionate about men's health and technology, with a strong interest in developing innovative health monitoring solutions. They should love helping men optimize their health, the world needs better health monitoring tools, they should be good at product development and technology, and they can be paid for creating a successful health tech company.",
+      "standoutFactors": [
+        {
+          "factor": "High demand for personalized health monitoring solutions",
+          "evidence": "I think the American male cares so much about testosterone and I think... if you were to have some way to measure testosterone or some broader hormones in a continuous way."
+        }
+      ],
+      "gettingStarted": {
+        "initialInvestment": "$100,000-500,000 for R&D and prototype development",
+        "keySkillsNeeded": [
+          "Product development",
+          "Health technology",
+          "Data analysis"
+        ],
+        "resourcesNeeded": [
+          "Medical research",
+          "Technology development team"
+        ],
+        "steps": [
+          "Research the feasibility of continuous hormone monitoring technology.",
+          "Develop a prototype device and conduct initial testing with a small group of users."
+        ],
+        "evidence": [
+          "I think the American male cares so much about testosterone and I think... if you were to have some way to measure testosterone or some broader hormones in a continuous way.",
+          "I actually like looked into this for like 10 minutes."
+        ]
+      },
+      "resources": [
+        {
+          "name": "Levels Health",
+          "type": "company",
+          "description": "A company that provides continuous glucose monitoring solutions, which could serve as a model for developing a testosterone monitor.",
+          "evidence": "I was an investor in that thing called levels which is a continuous glucose monitor.",
+          "links": [
+            "https://www.levelshealth.com/"
+          ]
+        }
+      ],
+      "successStory": null
+    },
+    "source": {
+      "channelName": "My First Million",
+      "channelUrl": "https://www.youtube.com/channel/UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "url": "https://www.youtube.com/watch?v=GDt6IQMXWxc",
+      "title": "How I Built A $600M Protein Bar Company In My Basement | RxBar Founder"
+    }
+  },
+  {
+    "id": "0a98a85c-c02e-4838-9ff5-e13b0ba698eb",
+    "opportunity": {
+      "name": "AI-Powered Book Translation and Audiobook Creation",
+      "type": "startup",
+      "description": "A project aimed at translating the most important books that are off copyright into dozens of languages using AI, and then creating audiobooks from them. This initiative seeks to make the great works of history accessible to people around the world in their native languages, thereby promoting education and cultural exchange.",
+      "tags": [
+        "AI",
+        "translation",
+        "audiobooks",
+        "education",
+        "startup"
+      ],
+      "perfectFounderTraits": "The ideal founder is passionate about literature and education, with a strong belief in the power of books to change lives. They should have a deep understanding of AI and machine learning, particularly in natural language processing and translation technologies. This person should love the idea of making literature accessible to everyone, be skilled in managing tech projects, and have a knack for building partnerships with educational and cultural institutions. They can be paid through potential partnerships with educational platforms, audiobook sales, and possibly grants for cultural projects.",
+      "standoutFactors": [
+        {
+          "factor": "Unique combination of AI technology and cultural preservation",
+          "evidence": "We're trying to take the Thousand most important books that are off of copyright and translate them into dozens of languages using AI and then create audiobooks off of any of all of them."
+        }
+      ],
+      "gettingStarted": {
+        "initialInvestment": "Estimated $100,000-200,000 for AI development and initial translations",
+        "keySkillsNeeded": [
+          "AI and machine learning",
+          "Project management",
+          "Linguistics"
+        ],
+        "resourcesNeeded": [
+          "Access to AI translation tools",
+          "Partnerships with libraries and cultural institutions"
+        ],
+        "steps": [
+          "Develop a robust AI model capable of accurately translating complex texts into multiple languages.",
+          "Partner with libraries and cultural institutions to identify key texts and secure rights for translation and distribution."
+        ],
+        "evidence": [
+          "We're doing stuff like that and so that also forces us to really use different AI tools and let's look at 11 versus CIA versus you know open Ai and let's let's how do you actually translate a long form book with high consistency and how do you QA that."
+        ]
+      },
+      "resources": [
+        {
+          "name": "OpenAI",
+          "type": "tool",
+          "description": "Provides advanced AI models that can be used for translation and language processing.",
+          "evidence": "We're doing stuff like that and so that also forces us to really use different AI tools and let's look at 11 versus CIA versus you know open Ai.",
+          "links": null
+        }
+      ],
+      "successStory": null
+    },
+    "source": {
+      "channelName": "My First Million",
+      "channelUrl": "https://www.youtube.com/channel/UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "url": "https://www.youtube.com/watch?v=_XYqFu0fKn0",
+      "title": "How Silicon Valley’s Most Prolific Investor Picks Unicorns | Elad Gil Interview"
+    }
+  },
+  {
+    "id": "3c8994e3-7fc2-4448-9946-304452039b84",
+    "opportunity": {
+      "name": "Monumental: Building Inspiring Monuments",
+      "type": "startup",
+      "description": "A project to construct large-scale monuments that inspire and celebrate progress, technology, and societal achievements. These monuments aim to serve as modern-day wonders that encourage optimism and forward-thinking in society.",
+      "tags": [
+        "art",
+        "architecture",
+        "public art",
+        "startup"
+      ],
+      "perfectFounderTraits": "The ideal founder is a visionary with a passion for art, architecture, and societal progress. They should love creating inspiring spaces and have a strong belief in the power of public art to influence culture. They need to be good at project management, fundraising, and navigating regulatory environments. They can be paid through public and private sponsorships, tourism, and potentially government grants for cultural projects.",
+      "standoutFactors": [
+        {
+          "factor": "Reviving the tradition of monumental public art to inspire future generations",
+          "evidence": "Where are the large scale inspiring pieces of beauty and art in society anymore like where have they gone why aren't we doing those anymore."
+        }
+      ],
+      "gettingStarted": {
+        "initialInvestment": "Estimated $1 million+ for land acquisition and initial construction",
+        "keySkillsNeeded": [
+          "Architecture",
+          "Project management",
+          "Fundraising"
+        ],
+        "resourcesNeeded": [
+          "Land for construction",
+          "Partnerships with artists and architects"
+        ],
+        "steps": [
+          "Identify potential locations and secure land for the monument.",
+          "Collaborate with artists and architects to design a monument that reflects societal values and technological prowess."
+        ],
+        "evidence": [
+          "Imagine if you walked out in San Francisco and you looked across you know to the The View with the the Golden Gate Bridge and Alcatraz and there's a giant statue that's kind of an ODed to the future."
+        ]
+      },
+      "resources": [
+        {
+          "name": "Local Art Councils",
+          "type": "community",
+          "description": "Can provide support and guidance on public art projects and help with community engagement.",
+          "evidence": "The intention around Monumental which is what we're calling the project is to also solicit ideas from people who live in locals and what do they want.",
+          "links": null
+        }
+      ],
+      "successStory": null
+    },
+    "source": {
+      "channelName": "My First Million",
+      "channelUrl": "https://www.youtube.com/channel/UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "url": "https://www.youtube.com/watch?v=_XYqFu0fKn0",
+      "title": "How Silicon Valley’s Most Prolific Investor Picks Unicorns | Elad Gil Interview"
+    }
+  },
+  {
+    "id": "d92adec3-8d8c-4f24-8f42-7ae58b7bdf40",
+    "opportunity": {
+      "name": "The Nick Method for Hosting Events",
+      "type": "side-hustle",
+      "description": "The Nick Method is a structured approach to hosting engaging and memorable events with minimal cost. It focuses on creating a welcoming environment through the use of name tags, structured introductions, and value-adding interactions. This method is designed to help hosts connect interesting people and facilitate meaningful conversations, ultimately building a network and potentially launching new ventures.",
+      "tags": [
+        "events",
+        "networking",
+        "side-hustle",
+        "community"
+      ],
+      "perfectFounderTraits": "The ideal founder loves bringing people together and thrives on creating memorable experiences. They are passionate about fostering connections and enjoy organizing events. They are good at managing logistics, have a knack for social dynamics, and can create a welcoming atmosphere. They can be paid for organizing events, consulting on event planning, or leveraging their network for business opportunities. The world needs more in-person connections in an increasingly digital age, and this founder is uniquely positioned to facilitate these connections.",
+      "standoutFactors": [
+        {
+          "factor": "Low cost and high impact for building a network",
+          "evidence": "You can do it with very little money each party should Cost You Less than100 $"
+        },
+        {
+          "factor": "Proven method with a track record of success",
+          "evidence": "I've helped hundreds of people to host their very first party using this method"
+        }
+      ],
+      "gettingStarted": {
+        "initialInvestment": "Less than $100 per event",
+        "keySkillsNeeded": [
+          "Event planning",
+          "Social skills",
+          "Networking"
+        ],
+        "resourcesNeeded": [
+          "Name tags",
+          "Venue space",
+          "Basic refreshments"
+        ],
+        "steps": [
+          "Start by planning a small event with 15-22 people, focusing on creating a welcoming atmosphere with name tags and structured introductions.",
+          "Use the event to connect people and facilitate conversations, gathering feedback to improve future events."
+        ],
+        "evidence": [
+          "The perfect size for a happy hour in my opinion is about 15 to 22 people",
+          "You need to start building up and hosting these little events"
+        ]
+      },
+      "resources": [
+        {
+          "name": "The Two-Hour Cocktail Party",
+          "type": "book",
+          "description": "A step-by-step guide to hosting successful events using the Nick Method.",
+          "evidence": "I wrote a book called The two-hour cocktail party that is really more like a workbook or a step-by-step guide that helps you actually do it",
+          "links": []
+        }
+      ],
+      "successStory": {
+        "name": "Nick Gray",
+        "summary": "Nick Gray used his method to launch a multi-million dollar business called Museum Hack, leveraging the network he built from hosting events.",
+        "evidence": "It helped me launch a multi-million dollar business called Museum Hack That was launched on the back of the network that I built up from hosting all of these events",
+        "links": []
+      }
+    },
+    "source": {
+      "channelName": "My First Million",
+      "channelUrl": "https://www.youtube.com/channel/UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "url": "https://www.youtube.com/watch?v=6blzeVYNs4U",
+      "title": "How to boost your social status with a $100 party"
+    }
+  },
+  {
+    "id": "aa98d153-a49c-491f-89e9-e9b0cf4fca85",
+    "opportunity": {
+      "name": "Enterprise Sales Team Building for SaaS",
+      "type": "startup",
+      "description": "Create a white-label enterprise sales team by recruiting high-energy salespeople from unconventional backgrounds, such as those selling Cutco knives or mall kiosk products. Train them to sell B2B SaaS products. This approach leverages the natural sales talent and hustle of these individuals, focusing on building a team that can either be acquired (aqua-hired) or used to build a SaaS business.",
+      "tags": [
+        "sales",
+        "SaaS",
+        "startup",
+        "recruitment"
+      ],
+      "perfectFounderTraits": "The ideal founder is passionate about sales and talent development, enjoys working with high-energy individuals, and has a knack for identifying and nurturing raw sales talent. They should love the challenge of transforming unconventional salespeople into B2B SaaS sales experts. The world needs effective sales teams to drive SaaS growth, and this founder can be paid through acquisitions or by building a successful SaaS business. They should be good at training, motivating, and managing sales teams.",
+      "standoutFactors": [
+        {
+          "factor": "High demand for skilled salespeople in the SaaS industry",
+          "evidence": "If you have guys that can sell and girls that can sell this company will get bought."
+        }
+      ],
+      "gettingStarted": {
+        "initialInvestment": "Minimal initial investment required for recruitment and training materials.",
+        "keySkillsNeeded": [
+          "Sales training",
+          "Team management",
+          "Recruitment"
+        ],
+        "resourcesNeeded": [
+          "Access to sales training programs",
+          "Recruitment channels"
+        ],
+        "steps": [
+          "Identify and recruit high-energy salespeople from unconventional backgrounds, such as those selling Cutco knives or mall kiosk products.",
+          "Develop a comprehensive training program to teach these recruits how to sell B2B SaaS products effectively."
+        ],
+        "evidence": [
+          "I want you going out there recruiting the guys selling Cutco knives.",
+          "Start building them and training them on how to sell B2B SaaS."
+        ]
+      },
+      "resources": [],
+      "successStory": null
+    },
+    "source": {
+      "channelName": "My First Million",
+      "channelUrl": "https://www.youtube.com/channel/UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "url": "https://www.youtube.com/watch?v=42tJzhHpc6Y",
+      "title": "Matchmaking for wealthy people + 6 Other Business Ideas"
+    }
+  },
+  {
+    "id": "207c38ec-1b77-42f5-9aa7-ea0a5afc16e1",
+    "opportunity": {
+      "name": "Millionaire Matchmaking Service",
+      "type": "startup",
+      "description": "A high-end matchmaking service targeting ultra-wealthy individuals, operating on a contingency fee basis. The service focuses on clients with a minimum net worth of $50 million and significant social media followings. The business model involves no upfront costs, with fees collected only upon successful matchmaking leading to marriage.",
+      "tags": [
+        "matchmaking",
+        "luxury",
+        "startup",
+        "contingency"
+      ],
+      "perfectFounderTraits": "The ideal founder is passionate about connecting people and has a deep understanding of the luxury market. They should love the art of matchmaking and have a strong network within high-net-worth circles. The world needs personalized matchmaking services for the ultra-wealthy, and this founder can be paid through substantial success fees. They should be good at relationship building, negotiation, and maintaining confidentiality.",
+      "standoutFactors": [
+        {
+          "factor": "Unique business model with no upfront costs and high success fees",
+          "evidence": "I'm only going to take the top-of-the-top clients... if they get married only success Gentleman's Agreement handshake million dollar minimum success fee."
+        }
+      ],
+      "gettingStarted": {
+        "initialInvestment": "Minimal initial investment required, primarily for networking and marketing.",
+        "keySkillsNeeded": [
+          "Networking",
+          "Relationship management",
+          "Discretion"
+        ],
+        "resourcesNeeded": [
+          "Access to high-net-worth networks",
+          "Marketing materials"
+        ],
+        "steps": [
+          "Build a network of ultra-wealthy individuals and establish trust within these circles.",
+          "Develop a matchmaking process that ensures confidentiality and high success rates."
+        ],
+        "evidence": [
+          "I'm going to have no cost, I'm only going to take the top-of-the-top clients.",
+          "Million dollar minimum success fee."
+        ]
+      },
+      "resources": [],
+      "successStory": null
+    },
+    "source": {
+      "channelName": "My First Million",
+      "channelUrl": "https://www.youtube.com/channel/UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "url": "https://www.youtube.com/watch?v=42tJzhHpc6Y",
+      "title": "Matchmaking for wealthy people + 6 Other Business Ideas"
+    }
+  },
+  {
+    "id": "2f72d160-ed92-4c62-aca7-832746649497",
+    "opportunity": {
+      "name": "Local Web Hosting and Maintenance Service",
+      "type": "niche",
+      "description": "A service agency focused on providing basic web hosting and maintenance for local small businesses. The service includes creating simple WordPress websites, ensuring they are secure, and offering basic updates. This business model emphasizes sales and customer service, offering a subscription-based model for ongoing support.",
+      "tags": [
+        "web hosting",
+        "small business",
+        "niche",
+        "subscription"
+      ],
+      "perfectFounderTraits": "The ideal founder loves technology and helping small businesses succeed online. They should be passionate about providing reliable and affordable web solutions. The world needs accessible web services for small businesses, and this founder can be paid through subscription fees. They should be good at web development, customer service, and sales.",
+      "standoutFactors": [
+        {
+          "factor": "Recurring revenue model with low overhead",
+          "evidence": "For 50 bucks a month, I'm going to host your site, I'll make sure it doesn't get hacked."
+        }
+      ],
+      "gettingStarted": {
+        "initialInvestment": "Low initial investment for web hosting infrastructure and marketing.",
+        "keySkillsNeeded": [
+          "Web development",
+          "Customer service",
+          "Sales"
+        ],
+        "resourcesNeeded": [
+          "Web hosting platform",
+          "Basic web development tools"
+        ],
+        "steps": [
+          "Set up a web hosting platform and develop a basic service offering for local businesses.",
+          "Market the service to local businesses, emphasizing security and ease of use."
+        ],
+        "evidence": [
+          "I think we should bring back web hosting companies specifically Services agencies to help local small businesses build very basic WordPress websites.",
+          "For 50 bucks a month, I'm going to host your site."
+        ]
+      },
+      "resources": [],
+      "successStory": null
+    },
+    "source": {
+      "channelName": "My First Million",
+      "channelUrl": "https://www.youtube.com/channel/UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "url": "https://www.youtube.com/watch?v=42tJzhHpc6Y",
+      "title": "Matchmaking for wealthy people + 6 Other Business Ideas"
+    }
+  },
+  {
+    "id": "25a4161b-2955-4c4c-a9fd-6d2ac493b12c",
+    "opportunity": {
+      "name": "Airbnb Experiences Tour Guide",
+      "type": "side-hustle",
+      "description": "Become a tour guide for Airbnb Experiences, offering unique tours in your city. This side hustle allows you to monetize your local knowledge and passion for your city by providing memorable experiences to tourists. It requires creativity in designing tours and excellent customer service skills.",
+      "tags": [
+        "tourism",
+        "side-hustle",
+        "Airbnb",
+        "experiences"
+      ],
+      "perfectFounderTraits": "The ideal founder loves their city and enjoys sharing its hidden gems with others. They should be passionate about creating memorable experiences and have a knack for storytelling. The world needs unique and personalized travel experiences, and this founder can be paid through tour fees. They should be good at customer service, storytelling, and marketing.",
+      "standoutFactors": [
+        {
+          "factor": "Immediate income potential with low startup costs",
+          "evidence": "This is a way for you to immediately start to get money from people searching for cool things to do."
+        }
+      ],
+      "gettingStarted": {
+        "initialInvestment": "Minimal initial investment for marketing and tour materials.",
+        "keySkillsNeeded": [
+          "Customer service",
+          "Storytelling",
+          "Marketing"
+        ],
+        "resourcesNeeded": [
+          "Access to Airbnb Experiences platform",
+          "Local knowledge"
+        ],
+        "steps": [
+          "Sign up on Airbnb Experiences and design a unique tour that highlights the best aspects of your city.",
+          "Market your tour to tourists visiting your city, focusing on providing a unique and memorable experience."
+        ],
+        "evidence": [
+          "Sign up on Airbnb experiences to lead a tour in your town and charge people for it.",
+          "Provide a great experience, beg for five-star reviews."
+        ]
+      },
+      "resources": [],
+      "successStory": null
+    },
+    "source": {
+      "channelName": "My First Million",
+      "channelUrl": "https://www.youtube.com/channel/UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "url": "https://www.youtube.com/watch?v=42tJzhHpc6Y",
+      "title": "Matchmaking for wealthy people + 6 Other Business Ideas"
+    }
+  },
+  {
+    "id": "cbee4cfe-a30b-4d6c-82c6-8a25204a5cb4",
+    "opportunity": {
+      "name": "Neighborhood Tech Support Service",
+      "type": "side-hustle",
+      "description": "A local tech support service offering in-home assistance with computer cleaning, Wi-Fi optimization, and basic tech support. This service targets individuals who need help with their technology but prefer in-person assistance. It involves visiting clients' homes to provide personalized tech support and maintenance.",
+      "tags": [
+        "tech support",
+        "side-hustle",
+        "local service",
+        "technology"
+      ],
+      "perfectFounderTraits": "The ideal founder loves technology and helping others solve tech-related problems. They should be passionate about providing personalized tech support and have a knack for troubleshooting. The world needs accessible tech support services, and this founder can be paid through service fees. They should be good at problem-solving, customer service, and basic tech skills.",
+      "standoutFactors": [
+        {
+          "factor": "High demand for personalized tech support with low startup costs",
+          "evidence": "For $100 make some massive improvements for people."
+        }
+      ],
+      "gettingStarted": {
+        "initialInvestment": "$100 for supplies and basic tools.",
+        "keySkillsNeeded": [
+          "Tech troubleshooting",
+          "Customer service",
+          "Problem-solving"
+        ],
+        "resourcesNeeded": [
+          "Basic tech toolkit",
+          "Cleaning supplies"
+        ],
+        "steps": [
+          "Purchase a basic tech toolkit and cleaning supplies to offer in-home tech support services.",
+          "Market your services to local neighborhoods, emphasizing convenience and personalized support."
+        ],
+        "evidence": [
+          "You can walk around with a little toolkit and for $100 make some massive improvements for people.",
+          "All you need for that is about $100 worth of supplies."
+        ]
+      },
+      "resources": [],
+      "successStory": null
+    },
+    "source": {
+      "channelName": "My First Million",
+      "channelUrl": "https://www.youtube.com/channel/UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "url": "https://www.youtube.com/watch?v=42tJzhHpc6Y",
+      "title": "Matchmaking for wealthy people + 6 Other Business Ideas"
+    }
+  },
+  {
+    "id": "57e2638d-05c2-4434-a344-3db64198d14c",
+    "opportunity": {
+      "name": "Home Video Digitization Service",
+      "type": "side-hustle",
+      "description": "A service that converts old home videos into digital formats, preserving memories for families. This involves collecting physical media from clients, digitizing it, and returning it in a modern format. The service targets families with outdated media formats who want to preserve their memories.",
+      "tags": [
+        "digitization",
+        "side-hustle",
+        "media",
+        "preservation"
+      ],
+      "perfectFounderTraits": "The ideal founder loves preserving memories and has a strong attention to detail. They should be passionate about helping families keep their memories safe and accessible. The world needs services that preserve analog media, and this founder can be paid through digitization fees. They should be good at media conversion, customer service, and organization.",
+      "standoutFactors": [
+        {
+          "factor": "Growing demand for media preservation with minimal competition",
+          "evidence": "I think an even easier one... is just to say hey do you guys have any like home videos from your kids because I can convert them into stuff that you can have you know on your computer."
+        }
+      ],
+      "gettingStarted": {
+        "initialInvestment": "Minimal initial investment for digitization equipment.",
+        "keySkillsNeeded": [
+          "Media conversion",
+          "Customer service",
+          "Organization"
+        ],
+        "resourcesNeeded": [
+          "Digitization equipment",
+          "Storage solutions"
+        ],
+        "steps": [
+          "Invest in basic digitization equipment to convert old media formats into digital files.",
+          "Market your services to local families, emphasizing the preservation of precious memories."
+        ],
+        "evidence": [
+          "I can take if you just have that box I'll just take the box and I'll do it for you.",
+          "You can make you know an easy few thousand dollar in a couple months of effort."
+        ]
+      },
+      "resources": [],
+      "successStory": null
+    },
+    "source": {
+      "channelName": "My First Million",
+      "channelUrl": "https://www.youtube.com/channel/UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "url": "https://www.youtube.com/watch?v=42tJzhHpc6Y",
+      "title": "Matchmaking for wealthy people + 6 Other Business Ideas"
+    }
+  }
+]

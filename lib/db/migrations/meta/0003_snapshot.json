@@ -1,6 +1,6 @@
 {
-  "id": "a05a1efc-75ab-4aa2-b825-2b12dc1b20c0",
-  "prevId": "142583f0-100f-4d06-a1ef-6ff31c33a8be",
+  "id": "3ddadc3c-7216-4349-a345-55bc4fdde990",
+  "prevId": "f956a0a1-b6be-437f-ae13-457c5b54193f",
   "version": "7",
   "dialect": "postgresql",
   "tables": {
@@ -138,9 +138,32 @@
           "type": "uuid",
           "primaryKey": false,
           "notNull": true
+        },
+        "embedding": {
+          "name": "embedding",
+          "type": "vector(1536)",
+          "primaryKey": false,
+          "notNull": false
         }
       },
-      "indexes": {},
+      "indexes": {
+        "embedding_index": {
+          "name": "embedding_index",
+          "columns": [
+            {
+              "expression": "embedding",
+              "isExpression": false,
+              "asc": true,
+              "nulls": "last",
+              "opclass": "vector_cosine_ops"
+            }
+          ],
+          "isUnique": false,
+          "concurrently": false,
+          "method": "hnsw",
+          "with": {}
+        }
+      },
       "foreignKeys": {
         "EnhancedOpportunity_opportunityId_Opportunity_id_fk": {
           "name": "EnhancedOpportunity_opportunityId_Opportunity_id_fk",
